@@ -1,4 +1,4 @@
-package io.github.projectname;
+package io.github.organizationname;
 
 /**
  * Class description goes here.
