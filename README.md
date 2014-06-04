@@ -8,7 +8,7 @@ The License is set to the MIT Open-Source License.
 The .gitignore file is set to Java default.
 
 1. Packaging:
-    Packaging will be as follows:
+        Packaging will be as follows:
         src/io/github/organizationname/anotherLogicalSubpackage/classFiles
         
 2. Commit comments:
@@ -18,7 +18,7 @@ The .gitignore file is set to Java default.
 3. What to NOT upload:
 
     .jar files.
-    
+   
     Eclipse project files.
     
     IntelliJ project files.
